@@ -25,7 +25,6 @@ export interface Character {
     name: string;
     status: CharacterStatus;
     species: string;
-    // type: string;
     gender: CharacterGender;
     image: string;
 }

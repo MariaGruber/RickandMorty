@@ -31,7 +31,7 @@ LESSONS LEARNED
 
 ·Calling an API with async await and await all.
 
-·there's someting called Interfaces they're important, must research.
+·there's something called Interfaces they're important, must research.
 
 ·I really like CSS, I'm going to deepen it for sure.
 
